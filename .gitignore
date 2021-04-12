@@ -31,3 +31,6 @@ yarn-error.log*
 *.sln
 *.sw*
 
+*.zip
+package-lock.json
+*.zip
